@@ -2,6 +2,14 @@
 
 Business-in-a-box platform for automation consultants. Dark theme with modern design for managing workflows, leads, and AI-powered business strategies.
 
+## 🚀 Quick Start
+
+1. **Install the theme** - See [INSTALLATION.md](INSTALLATION.md) for detailed setup instructions
+2. **Configure Gemini API key** - Add to `wp-config.php`: `define('GEMINI_API_KEY', 'your-key');`
+3. **Import sample workflows** - Use the data in `/sample-data/` directory
+4. **Create pages** - Landing Page and AI Library templates
+5. **Start capturing leads!**
+
 ## Features
 
 - **Custom Post Types**
