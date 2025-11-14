@@ -1,0 +1,167 @@
+[
+  {
+    "title": "Fluxo de relatório de campanha Meta",
+    "category": "Reporting",
+    "emoji": "📊"
+  },
+  {
+    "title": "Fluxo de relatório de campanha Meta por agrupamento de Criativo",
+    "category": "Reporting",
+    "emoji": "📊"
+  },
+  {
+    "title": "Fluxo de busca de dados Meta por Agente de AI",
+    "category": "AI & Data",
+    "emoji": "🔍"
+  },
+  {
+    "title": "Fluxo para verificar saldo Meta",
+    "category": "Finance",
+    "emoji": "💰"
+  },
+  {
+    "title": "Fluxo de captura de leads Meta",
+    "category": "Lead Generation",
+    "emoji": "🎣"
+  },
+  {
+    "title": "Fluxo de relatório de campanha Google",
+    "category": "Reporting",
+    "emoji": "📊"
+  },
+  {
+    "title": "Fluxo de resumo de grupo",
+    "category": "Social Media",
+    "emoji": "👥"
+  },
+  {
+    "title": "Fluxo de busca de palavras-chave em grupos de WhatsApp",
+    "category": "Social Media",
+    "emoji": "💬"
+  },
+  {
+    "title": "Fluxo de criação de vídeos automáticos",
+    "category": "Content Creation",
+    "emoji": "📹"
+  },
+  {
+    "title": "Fluxo de disparos em massa",
+    "category": "Marketing",
+    "emoji": "🚀"
+  },
+  {
+    "title": "Fluxo de atendimento AI com RAG",
+    "category": "AI & Customer Service",
+    "emoji": "🤖"
+  },
+  {
+    "title": "Fluxo de atendimento AI com agendamento",
+    "category": "AI & Customer Service",
+    "emoji": "🗓️"
+  },
+  {
+    "title": "Fluxo de criação de contratos",
+    "category": "Legal & Admin",
+    "emoji": "📄"
+  },
+  {
+    "title": "Fluxo de comentários do Instagram com leadscore",
+    "category": "Social Media",
+    "emoji": "💬"
+  },
+  {
+    "title": "Subir campanhas Meta",
+    "category": "Marketing",
+    "emoji": "📈"
+  },
+  {
+    "title": "Scraping Instagram",
+    "category": "Data Scraping",
+    "emoji": "🕷️"
+  },
+  {
+    "title": "Backup de projetos Google Drive",
+    "category": "Utilities",
+    "emoji": "💾"
+  },
+  {
+    "title": "Análise de campanhas",
+    "category": "Analytics",
+    "emoji": "📈"
+  },
+  {
+    "title": "Frontend para criação de credenciais Evolution",
+    "category": "Development",
+    "emoji": "🔑"
+  },
+  {
+    "title": "Fluxo para Webscraping do Google Maps",
+    "category": "Data Scraping",
+    "emoji": "🗺️"
+  },
+  {
+    "title": "Agente SDR",
+    "category": "Sales",
+    "emoji": "🕵️"
+  },
+  {
+    "title": "Fluxo Agendamento SDR",
+    "category": "Sales",
+    "emoji": "🗓️"
+  },
+  {
+    "title": "Fluxo de cobrança Woovi",
+    "category": "Finance",
+    "emoji": "💸"
+  },
+  {
+    "title": "Fluxo criador de tarefas Notion",
+    "category": "Productivity",
+    "emoji": "📝"
+  },
+  {
+    "title": "Fluxo Vendedor IA",
+    "category": "Sales & AI",
+    "emoji": "🤖"
+  },
+  {
+    "title": "Fluxo Follow-up - Vendedor IA",
+    "category": "Sales & AI",
+    "emoji": "🔄"
+  },
+  {
+    "title": "Fluxo atendimento WhatsApp com envio de áudio",
+    "category": "Customer Service",
+    "emoji": "🔊"
+  },
+  {
+    "title": "Criador de Grupos com Landing Page",
+    "category": "Marketing",
+    "emoji": "📄"
+  },
+  {
+    "title": "Fluxo de Scrape de Vídeos Youtube + postagem no LinkedIn",
+    "category": "Social Media",
+    "emoji": "🔗"
+  },
+  {
+    "title": "Fluxo telegram completo + gerador de imagem",
+    "category": "Social Media",
+    "emoji": "✈️"
+  },
+  {
+    "title": "Fluxo Completo Amazon",
+    "category": "E-commerce",
+    "emoji": "📦"
+  },
+  {
+    "title": "Fluxo para Backup de fluxos n8n",
+    "category": "Utilities",
+    "emoji": "💾"
+  },
+  {
+    "title": "Fluxo de cobrança PIX Mercado Pago",
+    "category": "Finance",
+    "emoji": "💳"
+  }
+]
